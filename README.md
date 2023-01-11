@@ -3,7 +3,7 @@
 
 ## 인공지능예제
  - 1-1 : student_classified
-  -- FNN을 이용해 
+ -- FNN을 이용해 
  - 1-2 : iris_classified
  - 1-3 : regression
  - 1_4_MNIST_CV
